@@ -1,7 +1,7 @@
 Hungry Aardvarks - A podcast annotation app prototype
 =====================================================
 
-A prototype for a podcast annotation app built for the [Hackup](http://hackup.se/) Hackaton in Uppsala in November 2015. The goal of the hackaton was to try out the IBM Watson API's and it was a tons of fun. And with the prototype we made it in to the finals - even if we didn't win.
+A prototype for a podcast annotation app built for the [Hackup](http://hackup.se/) Hackaton in Uppsala in October 2015. The goal of the hackaton was to try out the IBM Watson API's and it was a tons of fun. And with the prototype we made it in to the finals - even if we didn't win.
 
 This app was built by the Hungry Aardvarks team: [@ambarrio](https://github.com/ambarrio), [@hussius](https://github.com/hussius), and [@johandahlberg](https://github.com/johandahlberg).
 
